@@ -1,0 +1,40 @@
+c:\users\alperen\documents\visual studio 2015\Projects\WP-SuAboneTakip\WP-SuAboneTakip\bin\Debug\WP-SuAboneTakip.exe.config
+c:\users\alperen\documents\visual studio 2015\Projects\WP-SuAboneTakip\WP-SuAboneTakip\bin\Debug\WP-SuAboneTakip.exe
+c:\users\alperen\documents\visual studio 2015\Projects\WP-SuAboneTakip\WP-SuAboneTakip\bin\Debug\WP-SuAboneTakip.pdb
+c:\users\alperen\documents\visual studio 2015\Projects\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP-SuAboneTakip.csprojResolveAssemblyReference.cache
+c:\users\alperen\documents\visual studio 2015\Projects\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.yeni.resources
+c:\users\alperen\documents\visual studio 2015\Projects\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.Form1.resources
+c:\users\alperen\documents\visual studio 2015\Projects\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.Properties.Resources.resources
+c:\users\alperen\documents\visual studio 2015\Projects\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP-SuAboneTakip.csproj.GenerateResource.Cache
+c:\users\alperen\documents\visual studio 2015\Projects\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP-SuAboneTakip.exe
+c:\users\alperen\documents\visual studio 2015\Projects\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP-SuAboneTakip.pdb
+C:\Users\Alperen\documents\visual studio 2015\Projects\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.AboneSorgula.resources
+C:\Users\Alperen\documents\visual studio 2015\Projects\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.FaturaSorgula.resources
+C:\Users\Alperen\documents\visual studio 2015\Projects\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.YeniFatura.resources
+C:\Users\Alperen\Documents\Visual Studio 2015\Projects\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.AboneGuncelle.resources
+C:\Users\Alperen\Documents\Visual Studio 2015\Projects\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.FaturaGuncelle.resources
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\bin\Debug\WP-SuAboneTakip.exe.config
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP-SuAboneTakip.exe
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP-SuAboneTakip.pdb
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\bin\Debug\WP-SuAboneTakip.exe
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\bin\Debug\WP-SuAboneTakip.pdb
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP-SuAboneTakip.csprojResolveAssemblyReference.cache
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.AboneGuncelle.resources
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.AboneSorgula.resources
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.FaturaGuncelle.resources
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.FaturaSorgula.resources
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.yeni.resources
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.YeniFatura.resources
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.Form1.resources
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.Properties.Resources.resources
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP-SuAboneTakip.csproj.GenerateResource.Cache
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.AboneSil.resources
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.Faturasil.resources
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.AboneGoruntule.resources
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.Anaform.resources
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.FaturaGoruntule.resources
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.Faturalar.resources
+C:\Users\ali erözcan\Desktop\WP-SuAboneTakip\WP-SuAboneTakip\obj\Debug\WP_SuAboneTakip.USER.resources
+C:\Users\ali erözcan\Desktop\WP_SUABONETAKİPYENİ\WP-SuAboneTakip\bin\Debug\WP-SuAboneTakip.exe.config
+C:\Users\ali erözcan\Desktop\WP_SUABONETAKİPYENİ\WP-SuAboneTakip\obj\Debug\WP-SuAboneTakip.exe
+C:\Users\ali erözcan\Desktop\WP_SUABONETAKİPYENİ\WP-SuAboneTakip\obj\Debug\WP-SuAboneTakip.pdb

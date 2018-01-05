@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DataSource" Class="dataclassDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ODA\SQLEXPRESS;Integrated Security=True" SettingsObjectName="WP_SuAboneTakip.Properties.Settings" SettingsPropertyName="DataSourceConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Abone" Member="Abones">
+    <Type Name="Abone">
+      <Column Name="Abone_ID" Type="System.Decimal" DbType="Decimal(5,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="İsim" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="Soyisim" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Column Name="Adres" Type="System.String" DbType="VarChar(60) NOT NULL" CanBeNull="false" />
+      <Column Name="Telefon" Type="System.Decimal" DbType="Decimal(11,0) NOT NULL" CanBeNull="false" />
+      <Column Name="EskiBorc" Type="System.Decimal" DbType="Decimal(5,0)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Fatura" Member="Faturas">
+    <Type Name="Fatura">
+      <Column Name="Abone_ID" Type="System.Decimal" DbType="Decimal(5,0) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Fatura_ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Fatura_DATE" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="Fatura_Borc" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
